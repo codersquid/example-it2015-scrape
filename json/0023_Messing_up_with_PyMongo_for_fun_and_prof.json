@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 1230, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2015-05-30", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=CQfPq6wXyJI", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/CQfPq6wXyJI/maxresdefault.jpg", 
+  "title": "Messing up with PyMongo for fun and profit by Alessandro Molina", 
+  "whiteboard": ""
+}

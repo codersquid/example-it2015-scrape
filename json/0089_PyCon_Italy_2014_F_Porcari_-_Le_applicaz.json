@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 2714, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2014-06-16", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=aQIHahKroqc", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "Scrivere applicazioni web molto complesse pu\u00f2 essere un lavoro estremamente faticoso e poco remunerativo. Con il framework GenroPy \u00e8 possibile produrre in tempi rapidissimi applicazioni gestionali estremamente complete e complesse.\n\nNel talk saranno mostrate alcune applicazioni realizzate enfatizzando tutte le feature immediatamente disponibili per il cliente finale.\n\nIl talk \u00e8 finalizzato a mostrare l'aspetto utente delle applicazioni prodotte con GenroPy mentre nel training talk \"COSTRUIRE UN'APPLICAZIONE COMPLETA CON GENROPY\" sar\u00e0 possibile realizzare l'applicazione dimostrativa che vedrete a questo link.", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/aQIHahKroqc/maxresdefault.jpg", 
+  "title": "[PyCon Italy 2014] F. Porcari - Le applicazioni GenroPy", 
+  "whiteboard": ""
+}

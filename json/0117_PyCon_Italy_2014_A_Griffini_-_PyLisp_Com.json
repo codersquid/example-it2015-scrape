@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 3405, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2014-06-13", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=gx1zLSov2WQ", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "In questo talk si apriranno alcune delle porte sul mondo dell'implementazione stessa di Python, in particolare relativamente alla VM e al suo bytecode. La scusa ufficiale e' quella di presentare PyLisp, un mini-compilatore di un dialetto Lisp che scavalcando la parte di parsing e il compilatore di Python permettera' di utilizzare il runtime della VM generando direttamente il bytecode.", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/gx1zLSov2WQ/maxresdefault.jpg", 
+  "title": "[PyCon Italy 2014] A. Griffini - PyLisp: Compilare il lisp in Python bytecode", 
+  "whiteboard": ""
+}

@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 2314, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2014-06-16", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=wN-LbB_fUJI", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "Kivy \u00e8 sicuramente uno dei progetti liberi, basati su python, che sta catturando maggiore attenzione. Conosciamo questo strumento, scriviamo assieme una semplice applicazione e approfondiamo le tecniche per poter pubblicare le nostre applicazioni python su marketplace come Google Play e Apple Store.", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/wN-LbB_fUJI/maxresdefault.jpg", 
+  "title": "[PyCon Italy 2014] D. Corio - Kivy, applicazioni mobile cross-platform in Python", 
+  "whiteboard": ""
+}

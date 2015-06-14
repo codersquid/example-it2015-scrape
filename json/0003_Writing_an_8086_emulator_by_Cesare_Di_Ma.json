@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 2986, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2015-06-09", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=YFY7XH4PtPw", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/YFY7XH4PtPw/maxresdefault.jpg", 
+  "title": "Writing an 8086 emulator by Cesare Di Mauro", 
+  "whiteboard": ""
+}

@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 3400, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2015-05-30", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=yRaL3IkBwNs", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/yRaL3IkBwNs/maxresdefault.jpg", 
+  "title": "Automatizzare i deploy di applicazioni Django con Ansible by Maurizio Branca", 
+  "whiteboard": ""
+}

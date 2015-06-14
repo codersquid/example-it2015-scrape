@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 1621, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2014-06-16", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=-8Td9S_WM9g", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "Il mondo si sta sponstando sempre pi\u00f9 verso il mobile e l'esigenza di un backend che parli con la vostra applicazione si fa sempre pi\u00f9 importante. E se vi dicessi che scrivere API REST inPpython \u00e8 cos\u00ec facile che non dovete essere backend developer esperti? Prendete una cucchiaiata di Django, mescolate bene con Django REST Framework e alla fine una bella spolverata di Django OAuth Toolkit per cucinare l'API perfetta in pochi minuti.", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/-8Td9S_WM9g/maxresdefault.jpg", 
+  "title": "[PyCon Italy 2014] F. Frenguelli - Come creare API REST per tutti i gusti con Django OAuth Toolkit", 
+  "whiteboard": ""
+}

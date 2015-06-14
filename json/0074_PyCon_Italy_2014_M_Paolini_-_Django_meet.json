@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 2293, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2014-06-17", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=R6hqd60uW04", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "Having (ab)used gevent monkey-patching combined with greenlets, we can now finally leverage async techniques using only the standard library.\n\nAfter a quick intro, we presend a micro http-wsgi server written using asyncio, then we analyse performance and scalability.\n\nWe'll explore possible integration of the new asyncio package with django, starting from the most relevant example (pulsar). We'll also think of possible strategies for making it land in the core django.\n\nA good knowledge of bot python and backend web programming (HTTP, wsgi) is needed.", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/R6hqd60uW04/maxresdefault.jpg", 
+  "title": "[PyCon Italy 2014] M. Paolini - Django meets asyncio", 
+  "whiteboard": ""
+}

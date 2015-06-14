@@ -1,0 +1,20 @@
+{
+  "category": "", 
+  "copyright_text": "", 
+  "description": "", 
+  "duration": 2398, 
+  "language": "", 
+  "quality_notes": "", 
+  "recorded": "2014-06-13", 
+  "slug": "", 
+  "source_url": "https://www.youtube.com/watch?v=UqPv2AhHQTI", 
+  "speakers": [], 
+  "state": 1, 
+  "summary": "I Websocket sono probabilmente la feature piu' interessante del mondo HTML5. Ma perche' tutti si ostinano a presentarli usando javascript server side (nodejs)? Si possono utilizzare i websocket con qualsiasi linguaggio ed ovviamente anche python. Il talk illustrera' i vari approcci (e prodotti) disponibili e le problematiche da affrontare in questo modello di sviluppo.", 
+  "tags": [
+    "People & Blogs"
+  ], 
+  "thumbnail_url": "https://i.ytimg.com/vi/UqPv2AhHQTI/maxresdefault.jpg", 
+  "title": "[PyCon Italy 2014] R. De Ioris - Divertiamoci con i Websocket (ma senza nodejs...)", 
+  "whiteboard": ""
+}
