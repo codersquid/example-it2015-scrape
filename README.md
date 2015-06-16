@@ -1,8 +1,12 @@
 # example-it2015-scrape
 example of scrape with new steve scraper. For PyCon Italia 2015.
 
-In conjection with getting the youtube data from steve, I also wrote
-some junky one-off throw-away code to scrape their conference site to get
+Everyone has different conference sites and ways of posting schedules.
+There is no common scraping code that will work from conference to conference,
+or year to year. I end up writing one-off throw-away code 
+
+In conjection with getting the youtube data from steve, I also wrote junky
+one-off throw-away code to scrape their conference site to get
 descriptions and speaker information. (I didn't find any way to call an
 api to get a list of all the talks in machine readable form).
 
@@ -42,10 +46,9 @@ def all_metadata(fname):
     return metadata
 ```
 
-Once I got the scraped data in to a file, I went ahead and just
-edited steve files with a split window in vim and jumped between
-those and the conference file to do a search to find the right
-description and paste it in to the steve file.
+Once I got the scraped data in to a file, I went ahead and edited things by
+hand in a split vim window, jumping between the conference file and the
+steve files doing searches to find the right matches.
 
 Depending on a conference, I might not have to do that if their av
 provider has uploaded things to youtube using the same titles. At
